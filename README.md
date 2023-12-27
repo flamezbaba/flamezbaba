@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Segun</h1>
+<h1 align="center">Hi 👋, I'm Elijah</h1>
 <h3 align="center">Creative Fullstack Developer specialising in the development of web applications.</h3>
 
 - 🌱 I’m currently learning **Web3, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://dev-segun.vercel.app](https://dev-segun.vercel.app)
 
-- 💬 Ask me about **React, Vue.js, Nodejs and API's**
+- 💬 Ask me about **React, Vue.js, Nodejs, PHP, Laravel and API's**
 
 - 📫 How to reach me **sangosanyasegun@gmail.com**
 
